@@ -1,29 +1,12 @@
-# hzaudianping
 
-## Project setup
-```
-npm install
-```
+## hzau大众点评
+- 比较基本的一个demo，token什么的没有，优化也并不好
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- 因为是大学的第一个课程设计，还是很想记录一下的
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- 暑假还是想看看github上优质的开源项目提升自己
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+2019/12/3
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+MrPanda 刘畅
